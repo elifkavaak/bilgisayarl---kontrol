@@ -1,0 +1,2 @@
+# bilgisayarl---kontrol
+final
